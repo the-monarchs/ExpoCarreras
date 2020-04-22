@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpoCarreras.Comun", "ExpoC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpoCarreras.Datos", "ExpoCarreras.Datos\ExpoCarreras.Datos.csproj", "{C8865DB6-5129-4DDC-99F6-A36863D0627C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpoCarreras.Negocio", "ExpoCarreras.Negocio\ExpoCarreras.Negocio.csproj", "{1BFFFD4F-7409-4B86-9A4A-962CD27323AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C8865DB6-5129-4DDC-99F6-A36863D0627C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8865DB6-5129-4DDC-99F6-A36863D0627C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8865DB6-5129-4DDC-99F6-A36863D0627C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFFFD4F-7409-4B86-9A4A-962CD27323AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BFFFD4F-7409-4B86-9A4A-962CD27323AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BFFFD4F-7409-4B86-9A4A-962CD27323AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BFFFD4F-7409-4B86-9A4A-962CD27323AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

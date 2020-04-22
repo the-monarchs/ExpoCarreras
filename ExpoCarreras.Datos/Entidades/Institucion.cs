@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ExpoCarreras.Datos.Entidades
 {
-    class Institucion
+    public class Institucion
     {
     }
 }

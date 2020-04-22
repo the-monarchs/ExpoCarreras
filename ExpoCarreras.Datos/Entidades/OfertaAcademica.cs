@@ -11,7 +11,11 @@ namespace ExpoCarreras.Datos.Entidades
         public int IdTipoOfertaAcademica { get; set; }
         public string Titulo { get; set; }
         public string Descripcion { get; set; }
-        public int MyProperty { get; set; }
+        public Institucion Institucion { get; set; }
+        public float Duracion { get; set; }
+        public DateTime? FechaCreacion { get; set; }
+        public DateTime FechaAlta { get; set; }
+
 
     }
 }

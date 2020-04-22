@@ -4,7 +4,10 @@ using System.Text;
 
 namespace ExpoCarreras.Datos.Entidades
 {
-    class Localidad
+    public class Localidad
     {
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public Provincia Provincia { get; set; }
     }
 }
